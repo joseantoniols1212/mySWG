@@ -35,3 +35,6 @@ deployed (usually /, but for GitHub Pages it should be the name of your reposito
 
 ## 🛠️ Requirements
 - Python 3.7 or newer (nothing fancy — just not ancient)
+
+## 🌐 Deployed example
+You can check the website generated from the current content of this repository at [this link](https://joseantoniols1212.github.io/mySWG/).
